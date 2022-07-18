@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ravi Bhalwal @razor1998
 - 👀 I’m interested in Spring Web Application Development / QA.
-- 🌱 I’m currently wokring on Spring Boot / Spring Security / RDBMS and multiple other technology stacks.
-- 💞️ I’m looking for production web applications clients (Small / Medium Scale Requirements).
+- 🌱 I’m currently working on Spring Boot / Spring Security / RDBMS and multiple other technology stacks.
 - 📫 How to reach me >> ravibhalwal1998@outlook.com
 
 <!---
